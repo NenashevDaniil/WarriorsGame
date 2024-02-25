@@ -1,0 +1,15 @@
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\bin\Debug\net8.0\CharactersAdventures.exe
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\bin\Debug\net8.0\CharactersAdventures.deps.json
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\bin\Debug\net8.0\CharactersAdventures.runtimeconfig.json
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\bin\Debug\net8.0\CharactersAdventures.dll
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\bin\Debug\net8.0\CharactersAdventures.pdb
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\obj\Debug\net8.0\CharactersAdventures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\obj\Debug\net8.0\CharactersAdventures.AssemblyInfoInputs.cache
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\obj\Debug\net8.0\CharactersAdventures.AssemblyInfo.cs
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\obj\Debug\net8.0\CharactersAdventures.csproj.CoreCompileInputs.cache
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\obj\Debug\net8.0\CharactersAdventures.sourcelink.json
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\obj\Debug\net8.0\CharactersAdventures.dll
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\obj\Debug\net8.0\refint\CharactersAdventures.dll
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\obj\Debug\net8.0\CharactersAdventures.pdb
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\obj\Debug\net8.0\CharactersAdventures.genruntimeconfig.cache
+C:\Users\nenas\OneDrive\Рабочий стол\Repos\WarriorsGame\CharactersAdventures\obj\Debug\net8.0\ref\CharactersAdventures.dll

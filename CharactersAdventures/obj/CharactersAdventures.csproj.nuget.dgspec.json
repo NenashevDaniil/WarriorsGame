@@ -1,38 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nenas\\source\\repos\\CharactersAdventures\\CharactersAdventures\\CharactersAdventures.csproj": {}
+    "C:\\Users\\nenas\\OneDrive\\Рабочий стол\\Repos\\WarriorsGame\\CharactersAdventures\\CharactersAdventures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nenas\\source\\repos\\CharactersAdventures\\CharactersAdventures\\CharactersAdventures.csproj": {
+    "C:\\Users\\nenas\\OneDrive\\Рабочий стол\\Repos\\WarriorsGame\\CharactersAdventures\\CharactersAdventures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nenas\\source\\repos\\CharactersAdventures\\CharactersAdventures\\CharactersAdventures.csproj",
+        "projectUniqueName": "C:\\Users\\nenas\\OneDrive\\Рабочий стол\\Repos\\WarriorsGame\\CharactersAdventures\\CharactersAdventures.csproj",
         "projectName": "CharactersAdventures",
-        "projectPath": "C:\\Users\\nenas\\source\\repos\\CharactersAdventures\\CharactersAdventures\\CharactersAdventures.csproj",
+        "projectPath": "C:\\Users\\nenas\\OneDrive\\Рабочий стол\\Repos\\WarriorsGame\\CharactersAdventures\\CharactersAdventures.csproj",
         "packagesPath": "C:\\Users\\nenas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nenas\\source\\repos\\CharactersAdventures\\CharactersAdventures\\obj\\",
+        "outputPath": "C:\\Users\\nenas\\OneDrive\\Рабочий стол\\Repos\\WarriorsGame\\CharactersAdventures\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\nenas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -43,15 +37,16 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
